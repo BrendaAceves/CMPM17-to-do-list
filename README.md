@@ -1,4 +1,4 @@
-# HW AVL: Life is all about balance
+# To-Do App In-Class Project
 This project is about creating a to-do list which adds, deletes and organizes a user's tasks. The main 
 objective of this project is to provide hands-on experience creating a front-end web development
 application before beginning to work on the final project.
